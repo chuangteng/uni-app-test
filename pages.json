@@ -1,0 +1,19 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/index/test",
+			"style": {
+				"navigationBarTitleText": "甘特图"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "renderjs",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
